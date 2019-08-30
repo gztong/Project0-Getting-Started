@@ -6,7 +6,7 @@ Project 0 Getting Started
 * Gangzheng Tong
   * www.gtong.me
   * www.linkedin.com/in/gztong
-* Tested on: (TODO) Windows 10 Pro 64-bit, E3-1225 @ 3.3GHz 16GB, GTX 1060 3GB, personal computer
+* Tested on: Windows 10 Pro 64-bit, E3-1225 @ 3.3GHz 16GB, GTX 1060 3GB, personal computer
 
 ### Gangzheng Tong
 
