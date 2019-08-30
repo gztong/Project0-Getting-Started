@@ -3,11 +3,18 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Gangzheng Tong
+  * www.gtong.me
+  * www.linkedin.com/in/gztong
+* Tested on: (TODO) Windows 10 Pro 64-bit, E3-1225 @ 3.3GHz 16GB, GTX 1060 3GB, personal computer
 
-### (TODO: Your README)
+### Gangzheng Tong
+
+![](images/chrome.png)
+![](images/D3D12.png)
+![](images/cuda.png)
+![](images/analyze.png)
+![](images/nsight.png)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
